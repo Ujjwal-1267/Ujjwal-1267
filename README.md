@@ -3,7 +3,7 @@
 # Hi, I'm Ujjwal 👋
 
 <a href="https://github.com/Ujjwal-1267">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
