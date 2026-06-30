@@ -15,7 +15,6 @@
 <a href="mailto:ujjwalarora1267@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/ujjwal-arora-9a222131a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Ujjwal-1267"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -91,11 +90,8 @@ Live investment dashboard using Finnhub API market data, LocalStorage for portfo
 <td width="50%" valign="top">
 
 ### 💼 [FinanceHub](https://github.com/Ujjwal-1267/FinanceHub)
-A comprehensive financial dashboard providing real-time market insights, news updates, and financial tracking functionalities.
-<br/>`JavaScript` `API` `HTML/CSS`
-
-</td>
-<td width="50%" valign="top">
+An interactive personal finance suite featuring SIP, EMI, and retirement calculators with real-time Chart.js visualizations and PDF reports.
+<br/>`JavaScript` `Chart.js` `jsPDF` `LocalStorage`
 
 ### 🏭 [Industrial Debutanizer Soft Sensor](https://github.com/Ujjwal-1267/industrial-debutanizer-soft-sensor)
 ML regression models acting as a soft sensor to predict debutanizer column product composition from industrial process variables.
