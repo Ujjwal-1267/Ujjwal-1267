@@ -128,8 +128,8 @@ Simulation comparing linear and nonlinear dynamic systems using the 4th-order Ru
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-1267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-1267&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Ujjwal-1267&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Ujjwal-1267&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 <br/>
 
