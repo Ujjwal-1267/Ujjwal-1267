@@ -12,9 +12,9 @@
 
 <br/><br/>
 
-<a href="mailto:ujjwalarora1267@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/ujjwal-arora-9a222131a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/Ujjwal-1267"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:ujjwalarora1267@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/ujjwal-arora-9a222131a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Ujjwal-1267"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://YOUR_PORTFOLIO_URL.com"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
@@ -40,8 +40,6 @@ I'm a **Chemical Engineering undergraduate** passionate about software engineeri
 - **JavaScript Algorithm and Data Structures** (freeCodeCamp)
 - **IOQM** Certificate Holder
 - **NSEC** Above MAS
-
-
 
 <br/>
 
@@ -81,8 +79,6 @@ Interactive visualizer for sorting, graphing, and searching algorithms to make t
 <br/>`JavaScript` `Data Structures`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📊 [Stock Portfolio Tracker](https://github.com/Ujjwal-1267/stock-portfolio-tracker)
@@ -90,18 +86,20 @@ Live investment dashboard using Finnhub API market data, LocalStorage for portfo
 <br/>`JavaScript` `Chart.js` `Finnhub API`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 [FinanceHub](https://github.com/Ujjwal-1267/FinanceHub)
+A comprehensive financial dashboard providing real-time market insights, news updates, and financial tracking functionalities.
+<br/>`JavaScript` `API` `HTML/CSS`
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏭 [Industrial Debutanizer Soft Sensor](https://github.com/Ujjwal-1267/industrial-debutanizer-soft-sensor)
 ML regression models acting as a soft sensor to predict debutanizer column product composition from industrial process variables.
 <br/>`Python` `scikit-learn` `Jupyter`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 [Checkpoint Quest](https://github.com/Ujjwal-1267/checkpoint-quest)
-A responsive browser-based 2D platformer game built from scratch using HTML Canvas, CSS, and vanilla JavaScript.
-<br/>`JavaScript` `HTML Canvas`
 
 </td>
 </tr>
@@ -114,7 +112,6 @@ A responsive Sudoku solver utilizing backtracking, recursion, input validation, 
 
 </td>
 <td width="50%" valign="top">
-
 
 ### 🔧 [Nonlinear Spring-Mass Simulation](https://github.com/Ujjwal-1267/Nonlinear-Spring-Mass-System-Simulation)
 Simulation comparing linear and nonlinear dynamic systems using the 4th-order Runge–Kutta method with comparative response analysis.
@@ -132,7 +129,7 @@ Simulation comparing linear and nonlinear dynamic systems using the 4th-order Ru
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-1267&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-1267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-1267&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
@@ -153,8 +150,8 @@ Simulation comparing linear and nonlinear dynamic systems using the 4th-order Ru
 
 Open to internships, collaborations, and interesting software projects — feel free to reach out!
 
-<a href="mailto:ujjwalarora1267@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hi" /></a>
-<a href="https://linkedin.com/in/ujjwal-arora-9a222131a"><img src="https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
+<a href="mailto:ujjwalarora1267@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hi" /></a>
+<a href="https://linkedin.com/in/ujjwal-arora-9a222131a"><img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" /></a>
 
 <br/><br/>
 <sub>⭐️ Thanks for visiting! If you like my work, consider starring a repository.</sub>
