@@ -92,9 +92,8 @@ Live investment dashboard using Finnhub API market data, LocalStorage for portfo
 ### 💼 [FinanceHub](https://github.com/Ujjwal-1267/FinanceHub)
 An interactive personal finance suite featuring SIP, EMI, and retirement calculators with real-time Chart.js visualizations and PDF reports.
 <br/>`JavaScript` `Chart.js` `jsPDF` `LocalStorage`
+
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏭 [Industrial Debutanizer Soft Sensor](https://github.com/Ujjwal-1267/industrial-debutanizer-soft-sensor)
