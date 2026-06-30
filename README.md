@@ -3,7 +3,7 @@
 # Hi, I'm Ujjwal 👋
 
 <a href="https://github.com/Ujjwal-1267">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -128,8 +128,8 @@ Simulation comparing linear and nonlinear dynamic systems using the 4th-order Ru
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-1267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-1267&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjwal-1267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-1267&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 <br/>
 
